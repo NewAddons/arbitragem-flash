@@ -78,7 +78,7 @@ O **Arbitragem Flash** é uma ferramenta profissional que monitora oportunidades
 
 > **Monitoramento constante + IA de spread + lógica invertida = oportunidades reais de lucro.**
 
-![Dashboard]([blob:https://i.imgur.com/syv0Vad_d.webp?maxwidth=760&fidelity=grand))  
+![Dashboard](https://i.imgur.com/syv0Vad_d.webp?maxwidth=760&fidelity=grand)  
 [🔗 **Conheça a Interface**](https://arbitragemflash.com.br)
 
 ---
